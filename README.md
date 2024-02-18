@@ -1,4 +1,4 @@
-![image](https://github.com/wdchocopie/OsintTet/assets/81132394/e2c2560d-0213-467b-aebd-f0839698bde3)# OsintTet
+# OsintTet
 Bài Osint tết https://www.facebook.com/ehc.fptu/posts/pfbid0492wFdoqYcZ67uQhrviAYFfrfxr56VzViZDK3xMjynzS2zX4hW8Du4dma9pD9beQl
 ![image](https://github.com/wdchocopie/OsintTet/assets/81132394/047cefc6-a4e6-4c5b-a14d-46e01ce949f1)
 Tại đây cái đầu tiên mình nhận được từ thử thách
