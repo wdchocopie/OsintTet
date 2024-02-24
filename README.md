@@ -60,9 +60,20 @@ Quay lại phần website, Mình thấy contact mail for work thì mình thử �
 Mình thử dịch đoạn twrLwcA!J0}bH0*b2C0 bằng dencode thì nó ra được 1 phần của flag 	
 EHC{H4pPy_N3w_Y3ar_
 
+
+
 ![image](https://github.com/wdchocopie/OsintTet/assets/81132394/f6a98ca5-a570-43c4-a471-e0bf4bab3a0e)
 
 Tiếp tục với cái mail thì mình cũng thấy 1 link discord, mình thử join vào và thấy server như sau
 
 ![image](https://github.com/wdchocopie/OsintTet/assets/81132394/f7427c1a-d25e-4f4f-9a66-ce053af8ce69)
+
+
+Quay lại phần Telson mà mình tìm ở trên, sau 1 hồi lục lọi trên google, mình tìm thấy trang sau
+
+![image](https://github.com/wdchocopie/OsintTet/assets/81132394/ddd76960-6ba8-4efc-9e93-4bc566f21642)
+
+Và sau khi vào thì
+
+![image](https://github.com/wdchocopie/OsintTet/assets/81132394/aca9c5f4-0f40-447e-ba16-3cce835569a9)
 
